@@ -1,6 +1,6 @@
 <h1 align="center">✨ Hello, I'm Mariem Mostafa ✨</h1>
 
-<h3 align="center">💻 Computer & Artificial Intelligence Student </h3>
+<h3 align="center"> AI & ML Enthusiast | Mathematician | C++ & Python Developer | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mariem-Mostafa&color=blue" alt="Profile views" />
@@ -25,6 +25,7 @@
 
 🌱 Currently learning: **Deep Learning, Data Visualization, and Cloud for Data Science**  
 ✨ Always looking to **collaborate on creative AI & ML projects!**
+ 
 
 ---
 
@@ -54,17 +55,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mariem-Mostafa&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="160px"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Mariem-Mostafa&theme=radical&hide_border=false" height="160px"/>
-</p>
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Abdelrahmen-Elashry&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+<img src="https://streak-stats.demolab.com?user=Abdelrahmen-Elashry&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelrahmen-Elashry&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariem-Mostafa&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160px"/>
-</p>
+</div>
 
+![Snake Animation](https://github.com/Abdelrahmen-Elashry/Abdelrahmen-Elashry/blob/output/snake-dark.svg)
 ---
 
 ## 🏆 GitHub Trophies
