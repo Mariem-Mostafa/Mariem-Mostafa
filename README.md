@@ -59,20 +59,25 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=Abdelrahmen-Elashry&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-<img src="https://streak-stats.demolab.com?user=Abdelrahmen-Elashry&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelrahmen-Elashry&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=Mariem-Mostafa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+<img src="https://streak-stats.demolab.com?user=Mariem-Mostafa&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mariem-Mostafa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 
 </div>
 
-![Snake Animation](https://github.com/Abdelrahmen-Elashry/Abdelrahmen-Elashry/blob/output/snake-dark.svg)
----
+## 🐍 Contribution Graph
+
+<div align="center">
+  
+![Snake Animation](https://raw.githubusercontent.com/Mariem-Mostafa/Mariem-Mostafa/refs/heads/output/github-contribution-grid-snake-dark.svg)
+
+
+</div>
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mariem-Mostafa&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p>
-
 ---
 
 ## ✨ Fun Fact
