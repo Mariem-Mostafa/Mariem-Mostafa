@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hello, I'm Mariem Mostafa ✨</h1>
+<h1 align="center"> Hello, I'm Mariem Mostafa </h1>
 
 <h3 align="center"> AI & ML Enthusiast | Mathematician | C++ & Python Developer | Problem Solver</h3>
 
@@ -12,32 +12,32 @@
 
 ## 👩‍💻 About Me
 
-👋 Hi there! I'm **Mariem Mostafa**, a **Computer and Artificial Intelligence** student at Cairo University.  
-🚀 I'm passionate about **technology, software development, and artificial intelligence**.  
-💡 I enjoy **learning new things, solving problems, and building creative projects**.  
+ Hi there! I'm **Mariem Mostafa**, a **Computer and Artificial Intelligence** student at Cairo University.  
+ I'm passionate about **technology, software development, and artificial intelligence**.  
+ I enjoy **learning new things, solving problems, and building creative projects**.  
 
-🎓 I’ve completed **introductory courses in Machine Learning, Deep Learning, and Soft Skills**.  
+ I’ve completed **introductory courses in Machine Learning, Deep Learning, and Soft Skills**.  
 💻 Skilled in **C++ (OOP)** and **Python basics**, with growing interest in **AI and Data Science**.  
 
-🛠️ **Some of my projects include:**  
+ **Some of my projects include:**  
 - 🖼️ *Image Filter Application* – applies multiple filters to enhance images.  
 - 🎵 *Audio Player Program* – plays and loops tracks with user-friendly controls.  
 
-🌱 Currently learning: **Deep Learning, Data Visualization, and Cloud for Data Science**  
-✨ Always looking to **collaborate on creative AI & ML projects!**
+ Currently learning: **Deep Learning, Data Visualization, and Cloud for Data Science**  
+ Always looking to **collaborate on creative AI & ML projects!**
  
 
 ---
 
 ## 🌐 Socials
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/eng.mariem_mostafa)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MariemMostafaAhmed)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mariem_mobarak)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariem-mostafa-ahmed)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mariemmostafaahmed2)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MariemMostafaAhmed-d1t)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mariemmostafaahmed2@gmail.com)
+[<img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="20" align="center" /> Discord](https://discord.gg/eng.mariem_mostafa)
+[<img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="20" align="center" /> Facebook](https://facebook.com/MariemMostafaAhmed)
+[<img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="20" align="center" /> Instagram](https://instagram.com/mariem_mobarak)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" align="center" /> LinkedIn](https://linkedin.com/in/mariem-mostafa-ahmed)
+[<img src="https://img.icons8.com/color/48/000000/pinterest.png" width="20" align="center" /> Pinterest](https://pinterest.com/mariemmostafaahmed2)
+[<img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="20" align="center" /> YouTube](https://youtube.com/@MariemMostafaAhmed-d1t)
+[<img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="20" align="center" /> Email](mailto:mariemmostafaahmed2@gmail.com)
 
 ---
 
@@ -49,9 +49,19 @@
 
 
 ### 🧩 Tools & Platforms  
-<img src="https://img.shields.io/badge/Visual%20Studio%20Community-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-![github](https://skillicons.dev/icons?i=github)
-![notion](https://skillicons.dev/icons?i=notion)
+<img src="https://img.shields.io/badge/Visual%20Studio%20Community-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>                                                                                                                        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>                                                                                                                                                  <img src="https://img.shields.io/badge/Flowchart-FF6F61?style=for-the-badge&logo=drawio&logoColor=white"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="git" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="48" height="48"/> 
+  <img src="https://skillicons.dev/icons?i=clion" alt="CLion" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="48" height="48"/>
+ 
+
+
+</p>
+
 
 ---
 
