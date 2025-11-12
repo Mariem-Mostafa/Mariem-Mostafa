@@ -6,17 +6,22 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
+      - name: Checkout repository content
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Mariem-Mostafa
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake Animation to the output branch
+      - name: Push generated snake files to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
