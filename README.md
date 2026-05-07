@@ -51,15 +51,13 @@
 ### 🧩 Tools & Platforms  
 <img src="https://img.shields.io/badge/Visual%20Studio%20Community-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>                                                                                                                        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>                                                                                                                                                  <img src="https://img.shields.io/badge/Flowchart-FF6F61?style=for-the-badge&logo=drawio&logoColor=white"/>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="git" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="48" height="48"/> 
-  <img src="https://skillicons.dev/icons?i=clion" alt="CLion" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/> 
+  <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="48" height="48"/> 
+  <img src="https://skillicons.dev/icons?i=git" alt="git" width="48" height="48"/>   
+  <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="48" height="48"/>   
+  <img src="https://skillicons.dev/icons?i=clion" alt="CLion" width="48" height="48"/>  
   <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="48" height="48"/>
- 
-
-
+  
 </p>
 
 
